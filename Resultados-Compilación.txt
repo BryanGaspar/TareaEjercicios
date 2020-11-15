@@ -1,0 +1,5 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: TareaEjercicios, configuración: Debug Any CPU ------
+1>C:\Users\Anonymous PC\source\repos\TareaEjercicios\TareaEjercicios\Program.cs(13,13,13,19): error CS8370: La característica "funciones locales estáticas" no está disponible en C# 7.3. Use la versión 8.0 del lenguaje o una posterior.
+1>C:\Users\Anonymous PC\source\repos\TareaEjercicios\TareaEjercicios\Program.cs(22,13,22,19): error CS8370: La característica "funciones locales estáticas" no está disponible en C# 7.3. Use la versión 8.0 del lenguaje o una posterior.
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========
